@@ -1,11 +1,5 @@
 Config = Config or {}
 
---Authentication
-Config.ScriptAuthentication = true -- Server will not work with this function set to false this is for security reasons
-Config.ScriptLicense = "FREE-USE" -- Don't touch this, this is free use licensekey
-Config.ScriptAuthor = "CxCCore.xyz" -- Don't touch this or the script won't work
-Config.ScriptDiscord = "Dsc.gg/CxCCore" -- Don't touch this or the script won't work
-
 --Fuel script settings
 Config.FuelScript = "LegacyFuel" -- Your server fuel script name / uses export['scriptname']:setfuel()
 
