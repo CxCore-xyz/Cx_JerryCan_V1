@@ -1,0 +1,14 @@
+> __[ChangeLog V0.1]__
+> *+Added animation and hand prop on fill.*
+> *+Added target based shop.*
+> *+Added prop on back when having item in inventory.*
+> *+Fixed bug with no picture shown on item remove.*
+> *+Fixed locale.*
+> *+Made new filling system.*
+> *+Optimized the script.*
+> *+Updated Config.Debug feature.*
+> *+Made distance checking between player and vehicle.*
+> *+Made that you get an error notification when trying to fill vehicle from inside.*
+> *+Made that when you start using the gas can your ped will turn towards the vehicle.*
+
+--DSC.GG/CXCCORE
