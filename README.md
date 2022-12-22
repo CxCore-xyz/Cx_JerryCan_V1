@@ -2,4 +2,5 @@
 This script is for QBCore servers wich have problems with the original jerrycans.
 
 https://dsc.gg/CxCCore
+
 https://discord.gg/CcVQHbJCSH
